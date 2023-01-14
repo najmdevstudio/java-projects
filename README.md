@@ -7,5 +7,5 @@
 ### List of Projects Attempted
 
 1. Hello World!
-2. Project 2
+2. Minimum and maximum of an array
 3. Project 3
